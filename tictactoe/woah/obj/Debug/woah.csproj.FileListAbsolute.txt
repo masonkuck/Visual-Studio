@@ -1,0 +1,13 @@
+C:\Users\Mason\Documents\GitHub\Testing\woah\woah\bin\Debug\woah.exe.config
+C:\Users\Mason\Documents\GitHub\Testing\woah\woah\bin\Debug\woah.exe
+C:\Users\Mason\Documents\GitHub\Testing\woah\woah\bin\Debug\woah.pdb
+C:\Users\Mason\Documents\GitHub\Testing\woah\woah\obj\Debug\woah.csprojResolveAssemblyReference.cache
+C:\Users\Mason\Documents\GitHub\Testing\woah\woah\obj\Debug\MainWindow.baml
+C:\Users\Mason\Documents\GitHub\Testing\woah\woah\obj\Debug\MainWindow.g.cs
+C:\Users\Mason\Documents\GitHub\Testing\woah\woah\obj\Debug\App.g.cs
+C:\Users\Mason\Documents\GitHub\Testing\woah\woah\obj\Debug\woah_MarkupCompile.cache
+C:\Users\Mason\Documents\GitHub\Testing\woah\woah\obj\Debug\woah.g.resources
+C:\Users\Mason\Documents\GitHub\Testing\woah\woah\obj\Debug\woah.Properties.Resources.resources
+C:\Users\Mason\Documents\GitHub\Testing\woah\woah\obj\Debug\woah.csproj.GenerateResource.Cache
+C:\Users\Mason\Documents\GitHub\Testing\woah\woah\obj\Debug\woah.exe
+C:\Users\Mason\Documents\GitHub\Testing\woah\woah\obj\Debug\woah.pdb
