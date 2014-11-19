@@ -24,3 +24,6 @@ C:\Users\Mason\Documents\GitHub\Visual-Studio\tictactoe\woah\obj\Debug\woah_Mark
 C:\Users\Mason\Documents\GitHub\Visual-Studio\tictactoe\woah\obj\Debug\woah.g.resources
 C:\Users\Mason\Documents\GitHub\Visual-Studio\tictactoe\woah\obj\Debug\woah.Properties.Resources.resources
 C:\Users\Mason\Documents\GitHub\Visual-Studio\tictactoe\woah\obj\Debug\woah.csproj.GenerateResource.Cache
+C:\Users\Mike\Documents\GitHub\Visual-Studio\tictactoe\woah\bin\Debug\woah.exe.config
+C:\Users\Mike\Documents\GitHub\Visual-Studio\tictactoe\woah\obj\Debug\woah.exe
+C:\Users\Mike\Documents\GitHub\Visual-Studio\tictactoe\woah\obj\Debug\woah.pdb
